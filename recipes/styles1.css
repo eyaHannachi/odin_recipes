@@ -1,0 +1,41 @@
+html{
+    box-sizing: border-box;
+    height:fit-content;
+    margin: 10px;
+    padding: 0;
+    border: 15px double;
+}
+body{
+    background-color: cornsilk;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color:crimson;
+    font-size: 20px;
+    margin-inline: 8px;
+}
+div{
+    margin: 15px;
+}
+h1{
+    text-align: center;
+}
+.pic{
+    float:right;
+    font-size: 15px;
+}
+span{
+    text-decoration: underline;
+}
+h2,h3{
+    text-decoration: underline;
+}
+h2{
+    color:sienna;
+}
+h3{
+    color: midnightblue;
+}
+li{
+    padding-block: 5px;
+}
